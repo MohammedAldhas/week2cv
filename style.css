@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: #040b0b0a;
+  width: 45%;
+  margin: 0 auto;
+  box-shadow: 0 0 5px #00000052;
+}
+a {
+  text-decoration: none;
+}
+.line {
+  width: 70%;
+  margin: 0 auto;
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.512);
+}
+.me {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.me .name {
+  font-size: 40px;
+}
+.me h3 {
+  font-size: 20px;
+  font-weight: 200;
+  font-family: system-ui;
+  margin-top: -5px;
+}
+.me .contact {
+  text-align: start;
+  font-size: 7px;
+}
+.me .contact p i {
+  margin: 2px 7px 2px 15px;
+  /* ddd */
+}
+p a {
+  color: #000;
+}
+p a:hover {
+  color: #21698f;
+}
+hr {
+  width: 70%;
+  margin: 10px auto;
+  border-style: dashed;
+}
+.self {
+  text-align: start;
+  margin: 0 auto;
+  width: 68%;
+  font-weight: 200;
+  /* padding: 0 20px; */
+}
+.me .title {
+  font-size: 20px;
+  margin: 0 10px 5px;
+  text-align: start;
+}
+.me.p {
+  margin-bottom: 30px;
+}
+.me.p p {
+  text-align: start;
+  margin-left: 10px;
+}
+ul {
+  margin-left: 35px;
+}
+ul li {
+  text-align: start;
+}
